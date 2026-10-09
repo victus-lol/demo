@@ -3,7 +3,7 @@ def add(a, b):
 
 
 def greet(name):
-    return f"Hello, {name} from main!"
+    return f"Hello, {name} from main+feature!"
 
 
 if __name__ == "__main__":
